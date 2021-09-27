@@ -42,7 +42,7 @@ Each type of worker has their own needs that need to be fulfilled in order to ke
 
 Efficiency stays at 100% if both luxury and non-luxury needs are met, and less if only essentials are available. Pioneers, for example, will be at 79% satisfaction with only DW, RAT, and OVE available to consume. A workforce will keep working for as long as at least one of their essential resources is still at their disposal. Only once all of them run out, production will stop. If only part of the required resources is available, the workforce's satisfaction decreases and hence its productivity suffers.
 
-Some consumables are so-called non-essentials: The productivity loss caused by a missing non-essential is lower than for essential consumables. Plus, a workforce will stop working altogether if the only consumable at their disposal is non-essential. The Population buffer lists which consumables are essential and which aren't:
+Some consumables are so-called non-essentials: The productivity loss caused by a missing non-essential is lower than for essential consumables. Plus, a workforce will stop working altogether if the only consumable at their disposal is non-essential. The Population buffer lists which consumables are essential and which aren't.
 
 #### How consumables are used up
 
