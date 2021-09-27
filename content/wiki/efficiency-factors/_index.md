@@ -38,7 +38,7 @@ The following rules apply:
 
 ### Worker satisfaction
 
-Each type of worker has their own needs that need to be fulfilled in order to keep efficiency up. Worker needs can be looked up in a base's Population window. For example, 100 Pioneers need 4 DW, 4 RAT, 0.5 OVE, 0.5 COF, and 0.2 PWO per day to be fully satisfied, and 100 Settlers need 5 DW, 6 RAT, 3 HI, 0.5 EXO, and 0.5 PT.
+Each type of worker has their own needs that need to be fulfilled in order to keep efficiency up. Worker needs can be looked up in a base's Population window. For example, 100 Pioneers need 4 DW, 4 RAT, 0.5 OVE, 0.5 COF, and 0.2 PWO per day to be fully satisfied, and 100 Settlers need 5 DW, 6 RAT, 0.5 EXO, 0.5 PT, 1 KOM, and 0.2 REP.
 
 Efficiency stays at 100% if both luxury and non-luxury needs are met, and less if only essentials are available. Pioneers, for example, will be at 79% satisfaction with only DW, RAT, and OVE available to consume. A workforce will keep working for as long as at least one of their essential resources is still at their disposal. Only once all of them run out, production will stop. If only part of the required resources is available, the workforce's satisfaction decreases and hence its productivity suffers.
 
@@ -65,14 +65,14 @@ Each expert grants a bonus to a certain industry. Each industry, in turn, encomp
 | Expertise	   			| buildings (+ BUI tickers)														|
 |-----------------------|-------------------------------------------------------------------			|
 | Resource Extraction	| Collector (COL), Extractor (EXT),	Rig (RIG), Incinerator (INC)				|
-| Manufacturing  		| Basic Materials Plant (BMP), Textile Manufacturing (CLF), 3D Printer (PPF), Weaving Plant (WPL), Medium Component Assembly (MCA), Small Components Assembly (SCA), Appliances Factory (APF)	|
-| Agriculture  			| Farmstead (FRM), Hydroponics Farm (HYF)										|
-| Food Industries		| Food Processor (FP), Fermenter (FF), In-Vitro Plant (IVP), Orchard (ORC) |
-| Construction			| Prefab Plant MK1 (PP1), Welding Plant (WEL), Prefab Plant MK2 (PP2), Prefab Plant MK3 (PP3), Prefab Plant MK4 (PP4) |
-| Metallurgy			| Smelter (SME), Metalist Studio (FS), Glass Furnace (GF), High-Power Blast Furnace (ASM) |
-| Chemistry				| Chemical Plant (CHP), Polymer Plant (POL), Laboratory (LAB), Technetium Processing (TNP), Advanced Material Lab (AML), Einsteinium Enrichment (EEP) |
+| Manufacturing  		| Basic Materials Plant (BMP), Textile Manufacturing (CLF), 3D Printer (PPF), Weaving Plant (WPL), Medium Component Assembly (MCA), Small Components Assembly (SCA), Appliances Factory (APF), Spacecraft Prefab Plant (SPP), Advanced Appliances Factory (AAF), Spacecraft Propulsion Factory (SPF)	|
+| Agriculture  			| Farmstead (FRM), Hydroponics Farm (HYF), Orchard (ORC)										|
+| Food Industries		| Food Processor (FP), Fermenter (FER), In-Vitro Plant (IVP) |
+| Construction			| Prefab Plant MK1 (PP1), Welding Plant (WEL), Prefab Plant MK2 (PP2), Unit Prefab Plant (UPF), Prefab Plant MK3 (PP3), Prefab Plant MK4 (PP4) |
+| Metallurgy			| Smelter (SME), Metalist Studio (FS), Glass Furnace (GF), Hull Welding Plant (HWP), Ship Kit Factory (SKF), High-Power Blast Furnace (ASM) |
+| Chemistry				| Chemical Plant (CHP), Polymer Plant (POL), Laboratory (LAB), Pharma Factory (PHF), Technetium Processing (TNP), Advanced Material Lab (AML), Einsteinium Enrichment (EEP) |
 | Fuel Refining			| Refinery (REF) |
-| Electronics			| Cleanroom (CLR), Electronics Plant (ELP), Software Development (SD), Software Labs (SL) |
+| Electronics			| Electronics Device Manufactory (EDM), Cleanroom (CLR), Electronics Plant (ELP), Energy Component Assembly (ECA), Software Development (SD), Drone Shop (DRS), Software Engineering (SE), Software Labs (SL) |
 
 
 #### Expert spawn rates & bonuses
