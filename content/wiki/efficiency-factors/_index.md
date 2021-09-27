@@ -44,8 +44,6 @@ Efficiency stays at 100% if both luxury and non-luxury needs are met, and less i
 
 Some consumables are so-called non-essentials: The productivity loss caused by a missing non-essential is lower than for essential consumables. Plus, a workforce will stop working altogether if the only consumable at their disposal is non-essential. The Population buffer lists which consumables are essential and which aren't:
 
-![Non-essentials](non-essentials.png)
-
 #### How consumables are used up
 
 The first full amount of any consumable required for the following 24 hours (e.g. 4 RAT for 100 Pioneers) is claimed by a base's population (and thus disappears from the inventory) as soon as the commodity becomes available in the base's inventory. The same happens again 24 hours later, again and again until the consumable is used up. This goes for each type of consumable individually: If a population starts consuming DW at 12 PM and RAT at 4 PM, the next batch of DW will be used up at 12 PM the next day, and the next batch of RAT will be used up at 4 PM the next day.
